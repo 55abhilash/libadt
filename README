@@ -1,0 +1,7 @@
+libadt - A library of abstract data types in the C programming language 
+
+Dependencies : The GNU C Library (glibc)
+
+The purpose of the library is to provide efficient and generic abstract data structures ready to use for production level in C.
+
+
